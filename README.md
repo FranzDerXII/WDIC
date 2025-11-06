@@ -1,1 +1,2 @@
 # WDIC
+git mach pull
